@@ -5,7 +5,7 @@
   "changelog": "https://raw.githubusercontent.com/Doze-off/ProjectInfinity-X_gsi/16/changelog.txt",
   "variants": [
     {
-      "name": "treble_arm64_bgN",
+      "name": "infinity_gsi",
       "size": "1319719920",
       "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-04/Infinity-X-3.0_GSI_treble_arm64-ab_GAPPS-Official-20250804.img.xz"
     }
