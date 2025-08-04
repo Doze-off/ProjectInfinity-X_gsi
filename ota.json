@@ -1,10 +1,10 @@
 {
   "version": "2025-08-04",
-  "date": "1754273927",
+  "date": "1754280122",
   "variants": [
     {
       "name": "infinity_gsi",
-      "size": "1319719920",
+      "size": "1319793908",
       "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-04/Infinity-X-3.0_GSI_treble_arm64-ab_GAPPS-Official-20250804.img.xz"
     }
   ]
