@@ -7,13 +7,13 @@
   "variants": [
     {
       "name": "infinity_gsi_gapps",
-      "size": "1319793908",
+      "size": "1313215752",
       "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-05/Infinity-X-3.0_GSI_treble_arm64-ab_GAPPS-Official-20250805.img.xz"
     },
     {
       "name": "infinity_gsi_vanilla",
       "size": "1319793908",
-      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-05/Infinity-X-3.0_GSI_treble_arm64-ab_GAPPS-Official-20250805.img.xz"
+      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-05/Infinity-X-3.0_GSI_treble_arm64-ab_VANILLA-Official-20250805.img.xz"
     }
   ]
 }
