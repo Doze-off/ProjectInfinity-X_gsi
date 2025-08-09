@@ -1,3 +1,20 @@
-- Ota implemented
-- touch improve
-- Telegram file [download](https://t.me/ac_files/28)
+With the return of Launcher3 over Pixel launcher several features/functionalities are now shipped/enabled with v3.1 as like
+- Double tap home screen to lock device
+- Invert 3 button navbar layout order
+- Fixed complete white strip on navbar when accessing navbar in landscape mode
+- Allow hiding google search bar / Date on home screen 
+- Conditionally Transparent Recents and app drawer background 
+- Complete control of every themed icon with Lawnicons (Also can use custom themed icon packs)
+- Two line app label
+- Greetings / OxygenOS style clock quickspace view on homscreen with Weather view and Now Playing 
+- Memory Info in recents panel along with other various shortcuts like screenshot / google lens
+--- And lot more other goodies that launcher3 brings as you may have experienced in v2.x
+
+Also with this v3.1 Update:-
+
+- Merged August 2025 Security CVEs (Level 1)
+- Add sleep mode 
+- Add "Enable 5G" or Hotspot toggle in QS internet tile dialog
+- Add smart pixels 
+- Fixed lag / opening animation in settings app
+- Show option of screen off udfps on every device that supports udfps
