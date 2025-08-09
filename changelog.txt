@@ -18,3 +18,6 @@ Also with this v3.1 Update:-
 - Add smart pixels 
 - Fixed lag / opening animation in settings app
 - Show option of screen off udfps on every device that supports udfps
+
+### Note:
+-  **You have an option to update via manual OTA in the Treble app, just by downloading the .xz file and selecting it manually. (But the OTA breaks the DSU sideloader whenever you install an image it restarts on the same system, be aware of this when updating via OTA)**
