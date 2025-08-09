@@ -1,3 +1,12 @@
+
+- Performance adjustments, smoother system, and touch improvement to 240Hz
+- More fixes for RIL
+- Potential Fix for Fingerprints
+- Aperture camera with more native features enabled by default, like zoom 100x if you device suports
+- Update overlay for s22 ultra
+- **Added** Overlay for Tecno Spark 8 Pro
+- **Added** Overlay for Redmi Note 13 5G
+- Adjust the status bar in the treble app
 With the return of Launcher3 over Pixel launcher several features/functionalities are now shipped/enabled with v3.1 as like
 - Double tap home screen to lock device
 - Invert 3 button navbar layout order
