@@ -1,32 +1,6 @@
 
-- Performance adjustments, smoother system, and touch improvement to 240Hz
-- More fixes for RIL
-- Potential Fix for Fingerprints
-- Aperture camera with more native features enabled by default, like zoom 100x if you device suports
-- Update overlay for s22 ultra
-- **Added** Overlay for Tecno Spark 8 Pro
-- **Added** Overlay for Redmi Note 13 5G
-- Adjust the status bar in the treble app
-With the return of Launcher3 over Pixel launcher several features/functionalities are now shipped/enabled with v3.1 as like
-- Double tap home screen to lock device
-- Invert 3 button navbar layout order
-- Fixed complete white strip on navbar when accessing navbar in landscape mode
-- Allow hiding google search bar / Date on home screen 
-- Conditionally Transparent Recents and app drawer background 
-- Complete control of every themed icon with Lawnicons (Also can use custom themed icon packs)
-- Two line app label
-- Greetings / OxygenOS style clock quickspace view on homscreen with Weather view and Now Playing 
-- Memory Info in recents panel along with other various shortcuts like screenshot / google lens
---- And lot more other goodies that launcher3 brings as you may have experienced in v2.x
-
-Also with this v3.1 Update:-
-
-- Merged August 2025 Security CVEs (Level 1)
-- Add sleep mode 
-- Add "Enable 5G" or Hotspot toggle in QS internet tile dialog
-- Add smart pixels 
-- Fixed lag / opening animation in settings app
-- Show option of screen off udfps on every device that supports udfps
-
-### Note:
--  **You have an option to update via manual OTA in the Treble app, just by downloading the .xz file and selecting it manually. (But the OTA breaks the DSU sideloader whenever you install an image it restarts on the same system, be aware of this when updating via OTA)**
+### Changelog:
+- Fix spoofing in Infinity suite
+- More tweaks
+- Fingerprint fix on some devices
+- patch incoming call(but depend you devices)
