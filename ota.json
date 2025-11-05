@@ -1,24 +1,19 @@
 {
-  "version": "2025-08-12",
-  "date": "1754978783",
+  "version": "2025-11-05",
+  "date": "1762351860",
   "gsi": "Infinity X Official | by Doze-off",
-  "security_patch": "2025-08-01",
+  "security_patch": "2025-11-01",
   "changelog": "https://raw.githubusercontent.com/Doze-off/ProjectInfinity-X_gsi/16/changelog.txt",
   "variants": [
     {
       "name": "infinity_gsi_gapps",
-      "size": "1477665620",
-      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-12/Infinity-X-3.1_GSI_treble_arm64-ab_GAPPS-Official-20250812.img.xz"
+      "size": "1343129884",
+      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-11-05/Infinity-X-3.4_GSI_treble_arm64-ab_GAPPS-Official-20251105.img.xz"
     },
     {
       "name": "infinity_gsi_vanilla",
-      "size": "982006688",
-      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-12/Infinity-X-3.1_GSI_treble_arm64-ab_VANILLA-Official-20250812.img.xz"
-    },
-    {
-      "name": "infinity_a64_vanilla",
-      "size": "780105616",
-      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-08-12/Infinity-X-3.1_GSI_treble_arm32_binder64-ab_VANILLA-Official-20250812.img.xz"
+      "size": "996801352",
+      "url": "https://github.com/Doze-off/ProjectInfinity-X_gsi/releases/download/2025-11-05/Infinity-X-3.4_GSI_treble_arm64-ab_VANILLA-Official-20251105.img.xz"
     }
   ]
 }
