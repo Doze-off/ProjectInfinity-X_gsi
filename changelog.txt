@@ -1,9 +1,44 @@
 
 ### Changelog:
-- Fix spoofing in Infinity suite
-- More tweaks
-- Fingerprint fix on some devices
-- patch incoming call(but depend you devices)
+- Bump security string to November 1, 2025
+- Fix SystemUI's location use every 5 minutes or when pulling qs panel
+- Add optional toggleable proper circle qs tile shape (author: neobuddy89)
+- Add toggleable ambient wallpaper feature (author: Ghosuto)
+- Add custom json based game spoofing (author: minaripenguin)
+- Add various patches to fix some detections in banking apps (author: neobuddy89)
+- Add feature to control system-wide blur intensity (author: NurKeinNeid)
+- Add feature to show ambient display on lift to wake device (author: idoybh)
+- Add feature to show ambient display on single tap when device is locked (only for devices which supports native single tap sensor)  (author: aswin7469)
+- Fix double tap to show ambient display for devices using native double tap sensor implementation 
+- Show weather info on lockscreen even on ambient display
+- Add shake gestures feature (author: minaripenguin)
+- Fix some janks and delays while pulling qs quickly
+- Fix lags/hiccups on some popup animations / new events on higher refresh rate devices
+- Improvements for more smoother scrolling
+- Improve some battery draining overhead
+- Improve memory consumption / battery overhead by system_server, surfacelinger and libbinder
+- Bring back OxygenOS Icon pack
+- Make translucent notifications view a bit more translucent
+- Add proper toggle for pulse visualizer on ambient display (author: Ghosuto)
+- Introduce more new pulse visualizer styles (author: Ghosuto)
+- Revamp edge light feature completely (author: neobuddy89 & Ghosuto)
+- Add more new edge light styles & effects (author: Ghosuto, neobuddy89 for improvements)
+- Allow to optionally show edge light on complete frame (author: minaripenguin)
+- Shorten carrier name display on quicksettings (eg. "JIO 4G - JIO" to just "JIO") improves quicksettings layout with 2 sim cards solving occasional overlapping and clutterness  (author: ghostrider-reborn)
+- Make quicksettings clock header properly switch instantly to white/black color on dark/light theme respectively
+- Make network traffic indicator / carrier icon on quicksettings properly switch instantly to white/black color on dark/light theme respectively
+- Allow disabling refresh rate lowering in battery saver (author: ghostrider-reborn)
+- Add per-app refresh rate control feature (author: cjh1249131356)
+- Fix ongoing notification progress chip being occasionally stuck even after process end (author: shutter-cat)
+- Add more new animations and theming to ongoing progress notification (author: shutter-cat)
+- Hide ongoing progress notification chip when heads up notification arrives to fix some overlapping instances (author: shutter-cat)
+- Make Ongoing chip size and position configurable (author: Ghosuto)
+- Add more new APNs (author: Multiple at lineage review)
+- Simplify build date display in ZIP supported- Revamp post-build compilation message
+- Add bash, curl, getcap, htop, nano, setcap, vim, rsync binaries back to system shell
+- Make recovery to now allow downgrade rom zip with older security patch level (author: rmp22)
+- Hide doze on charge toggle if alwaysondisplay not supported
+
 
 ### Note
 The OTA will depend a lot on your device's support, it may work correctly on some and not on others, I have no control over that.
