@@ -1,9 +1,15 @@
 
 ### Changelog:
-- Fix spoofing in Infinity suite
-- More tweaks
-- Fingerprint fix on some devices
-- patch incoming call(but depend you devices)
+- Sync latest source of Infinity X
+- "Securize" rework thanks @cawilliamson
+- Added some options on treble app
+- Fixed lmk tweaks in treble app
+- Fully user build for security and app detection
+- Added codecs fixes thanks @cawilliamson
+- Added bluetooth fix in treble app
 
-### Note
-The OTA will depend a lot on your device's support, it may work correctly on some and not on others, I have no control over that.
+### Notes:
+- Some kernels may fail to boot correctly.
+- Once again, trying to get bpf to work on older kernels without built-in bpfs.
+- Kernels 5.10 may get stuck on the manufacturer's screen.
+- The OTA will depend a lot on your device's support, it may work correctly on some and not on others, I have no control over that.
