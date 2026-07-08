@@ -1,9 +1,0 @@
-
-### Changelog:
-- Fix spoofing in Infinity suite
-- More tweaks
-- Fingerprint fix on some devices
-- patch incoming call(but depend you devices)
-
-### Note
-The OTA will depend a lot on your device's support, it may work correctly on some and not on others, I have no control over that.
